@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JoaoIserhard
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning ReactJS and Java.
-- 💞️ I’m looking to collaborate on ...
 - 📫 [LinkedIn](https://www.linkedin.com/in/joaoiserhard/)
 
 <!---
