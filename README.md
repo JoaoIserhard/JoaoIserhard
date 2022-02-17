@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JoaoIserhard
-- 👀 I’m interested in front-end development
+- 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning ReactJS and Java.
 - 📫 [LinkedIn](https://www.linkedin.com/in/joaoiserhard/)
 
